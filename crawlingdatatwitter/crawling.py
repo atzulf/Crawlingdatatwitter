@@ -23,7 +23,7 @@ def main():
     # Menampilkan konten berdasarkan pilihan di sidebar
     if choice == "Hasil Crawling Twitter":
         st.title("Hasil Crawling Twitter dengan kata kunci Indonesia Emas")
-        st.write(data.head(30))  # Menampilkan data dari file CSV
+        st.write(data.head(50))  # Menampilkan data dari file CSV
     
     elif choice == "Word Cloud":
         st.title("Word Cloud dari Hasil Crawling")
