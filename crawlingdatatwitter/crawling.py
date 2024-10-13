@@ -11,7 +11,7 @@ def main():
     choice = st.sidebar.selectbox("Menu", activity)
 
     # Muat gambar di awal
-    image = Image.open('D:/KULIAH UNY/SEMESTER 5 TI/Aplikasi Web/PraktikumStreamlit/photo/emas.jpg')
+    image = Image.open('crawlingdatatwitter/emas.jpg')
     st.sidebar.image(image, caption='Indonesia Emas', use_column_width=True)  # Gambar di sidebar
 
     # Path file CSV sudah diketahui
