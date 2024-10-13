@@ -1,3 +1,8 @@
+# Nama 	: Ataka Dzulfikar
+# NIM  	: 22537141002
+# Prodi	: Teknologi Informasi / I
+# --------------------------------------------------------------------------
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud, STOPWORDS
