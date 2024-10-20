@@ -1,0 +1,310 @@
+stemming,label
+"['sdm', 'asli', 'ykc', 'indonesiaemas']",neutral
+"['presiden', 'jokowi', 'menteri', 'kabinet', 'indonesia', 'maju', 'fokus', 'kerja', 'tuntas', 'program', 'relasi', 'antarmenteri', 'kabinet', 'solid', 'pengaruh', 'dinamika', 'politik', 'pasca', 'pilpres', 'projo', 'jokowi', 'indonesiaemas']",neutral
+"['relasi', 'presiden', 'jokowi', 'menhan', 'prabowo', 'solid', 'isuisu', 'kait', 'presiden', 'jokowi', 'dinamika', 'koalisi', 'perintah', 'bijak', 'projo', 'jokowi', 'indonesiaemas', 'budiariesetiadi']",negative
+"['paic', 'oh', 'gerombol', 'klakson', 'rs', 'indonesiaemas']",neutral
+"['ramadan', 'selamat', 'buka', 'puasa', 'projo', 'jokowi', 'indonesiaemas', 'ramadandays']",neutral
+"['neveralonely', 'alhamdulillah', 'bongkar', 'usut', 'tuntas', 'koruptor', 'indonesiaemas']",positive
+"['opini', 'iwanfals', 'indonesiaemas', 'soekarno', 'hatta']",positive
+"['gimana', 'maju', 'indonesia', 'kalo', 'pimpin', 'jual', 'agama', 'satu', 'jual', 'moral', 'sok an', 'diskualifikasi', 'menang', 'baik', 'instropeksi', 'utk', 'pilih', 'indonesiaemas']",positive
+"['indonesia', 'tuan', 'rumah', 'world', 'water', 'forum', 'dunia', 'projo', 'jokowi', 'indonesiaemas']",neutral
+"['buka', 'santun', 'dpd', 'projo', 'kepri', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['mata', 'uang', 'asia', 'keok', 'lawan', 'dolar', 'as', 'rupiah', 'ngenes', 'indonesiaemas']",negative
+"['salah', 'usaha', 'usaha', 'china', 'ni', 'masuk', 'warga', 'indonesia', 'cuman', 'curi', 'kaya', 'indonesia', 'karpet', 'merah', 'usaha', 'usaha', 'china', 'indonesiaemas']",positive
+"['bisik', 'ya', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['mudik', 'gratis', 'projo', 'projo', 'jokowi', 'prabowogibran', 'indonesiaemas']",negative
+"['ikn', 'banjir', 'investor', 'investor', 'negeri', 'sepakat', 'bentuk', 'forum', 'investor', 'ikn', 'cepat', 'bangun', 'iknnusantara', 'investment', 'infrastructure', 'paobc', 'lufc', 'indonesiaemas']",neutral
+"['video', 'edar', 'sd', 'rakyat', 'yg', 'hidup', 'sulit', 'tugas', 'utk', 'duli', 'amp', 'wajib', 'pemda', 'utk', 'hidup', 'rakyat', 'miskin', 'kemensos', 'humas', 'indonesiaemas']",negative
+"['kumpar', 'astaghfirullah', 'naudzubillahiminzalik', 'indonesiaemas']",negative
+"['masjid', 'kali', 'gabung', 'witir', 'waspada', 'langsung', 'sujud', 'rakaat', 'komunitas', 'tki', 'qunutnya', 'noteself', 'indonesiaemas', 'lebaran', 'operasiketupat', 'takjilwar', 'specialtycoffee']",neutral
+"['srully', 'subur', 'islam', 'rambut', 'aurat', 'rambut', 'mahkota', 'tampak', 'suami', 'anak', 'anak', 'muhrim', 'subhanallah', 'indonesiaemas']",negative
+"['ketua', 'golkar', 'ketua', 'demokrat', 'ketua', 'projo', 'tangkap', 'frekuensi', 'jokowiprabowo', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['indonesia', 'milik', 'pasar', 'prediksi', 'dampak', 'dorong', 'jaya', 'ekonomi', 'ekonomi', 'indonesiaemas', 'medcomid']",positive
+"['umum', 'hasil', 'sip', 'anhkatan', 'polri', 'polripresisi', 'presisi', 'polisi', 'polisi', 'polisiindonesia', 'polisikeren', 'polisimilitary', 'sdm', 'ssdm', 'sisdm', 'indonesia', 'emas', 'indonesiaemas', 'damaiindonesia', 'sulselmaju', 'poldasulsel', 'aman', 'masyarakat', 's', 'fyp', 'sdmunggul']",positive
+"['prabowo', 'presiden', 'pilih', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['bisik', 'menteri', 'kemkominfo', 'budi', 'arie', 'prabowo', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['milu', 'menang', 'kalah', 'lawan', 'gerombol', 'provokator', 'pecah', 'belah', 'rakyat', 'pemiluamandamai', 'pemilukondusif', 'verydarkman', 'fights', 'indonesiaemas']",negative
+"['jamalboegis', 'bawasluri', 'alhamdulillah', 'ya', 'allah', 'bongkar', 'aku', 'salah', 'indonesiaemas']",positive
+"['selamat', 'ingat', 'jumat', 'agung', 'projo', 'jokowi', 'indonesiaemas']",positive
+"['presiden', 'jokowi', 'bukber', 'menteri', 'kabinet', 'istana', 'negara', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['selamat', 'raya', 'tri', 'suci', 'projo', 'jokowi', 'indonesiaemas']",positive
+"['suka', 'narasi', 'nyok', 'ramdhan', 'h', 'maret', 'april', 'revolusi', 'akhlak', 'pribadi', 'produktif', 'amal', 'baik', 'jadi', 'adab', 'standar', 'hidup', 'indonesiaemas', 'nkrimembangun', 'aagym', 'pksmakasar', 'mardanialisera']",positive
+['indonesiaemas'],positive
+"['kepala', 'desa', 'indonesiaemas']",neutral
+"['timah', 'indonesiaemas']",positive
+"['sehat', 'jokowi', 'biar', 'org', 'bnyk', 'nyinyir', 'caci', 'maki', 'bpk', 'ambil', 'pahala', 'indonesiaemas']",positive
+"['kompascom', 'akal', 'aja', 'biar', 'bnyak', 'ptongnya', 'indonesiacemas']",neutral
+"['as', 'sdm', 'kapolri', 'pimpin', 'rapat', 'siap', 'terima', 'padu', 'anggota', 'polri', 'ta', 'polri', 'polripresisi', 'presisi', 'polisi', 'polisi', 'polisiindonesia', 'polisikeren', 'polisimilitary', 'sdm', 'ssdm', 'sisdm', 'indonesia', 'emas', 'indonesiaemas', 'damaiindonesia', 'sulselmaju', 'poldasulsel', 'aman']",positive
+"['dekarbonisasi', 'industri', 'besi', 'baja', 'pilih', 'harus', 'kerja', 'keras', 'kolaborasi', 'cipta', 'industri', 'lanjut', 'dukung', 'indonesiaemas', 'aksikitahijaukanindustri']",positive
+"['arah', 'karo', 'sdm', 'polda', 'sulsel', 'kombes', 'pol', 'aris', 'haryanto', 'sik', 'mhum', 'oelaksanaan', 'apel', 'pagi', 'satker', 'mapolda', 'sulsel', 'polri', 'polripresisi', 'presisi', 'polisi', 'polisi', 'polisiindonesia', 'polisikeren', 'polisimilitary', 'sdm', 'ssdm', 'sisdm', 'indonesia', 'emas', 'indonesiaemas', 'damaiindonesia']",neutral
+"['negara', 'maju', 'klau', 'pikir', 'bencana', 'banjir', 'karna', 'alam', 'restu', 'pimpin', 'timnasday', 'indonesiaemas']",negative
+"['indonesia', 'indoviral', 'indo', 'indonesiaemas', 'indonesialengkap', 'indonesiamuda', 'viralindo', 'viralterbaru', 'viralindonesia', 'ilmu', 'tahu', 'ilmupengetahuan', 'teknik', 'teknologi', 'iptek', 'iptekdunia']",neutral
+"['ngk', 'main', 'naturalisasi', 'dateng', 'effectnya', 'beuh', 'indonesia', 'vietnam', 'nyala', 'abang', 'indonesiaemas']",negative
+"['thom', 'debut', 'asist', 'tendang', 'pojok', 'nathan', 'debut', 'asist', 'gera', 'klimis', 'sisi', 'kiri', 'bang', 'jay', 'debut', 'gol', 'gol', 'sundul', 'ragnar', 'debut', 'gol', 'solo', 'run', 'goal', 'go', 'go', 'go', 'indonesiaaaaaa', 'timnasindonesia', 'timnasday', 'indonesiaemas']",neutral
+"['jokowi', 'indonesiaemas', 'lanjut']",positive
+"['ramadan', 'selamat', 'buka', 'puasa', 'projo', 'jokowi', 'indonesiaemas', 'ramadan']",neutral
+"['tempodotco', 'bansos', 'indonesiaemas', 'lanjut']",neutral
+"['latkatpuan', 'operator', 'e', 'patma', 'polri', 'polripresisi', 'presisi', 'polisi', 'polisi', 'polisiindonesia', 'polisikeren', 'polisimilitary', 'sdm', 'ssdm', 'sisdm', 'indonesia', 'emas', 'indonesiaemas', 'damaiindonesia', 'sulselmaju', 'poldasulsel', 'aman', 'masyarakat', 's', 'fyp', 'sdmunggul']",positive
+"['bagi', 'takjil', 'polda', 'sulsel', 'polri', 'polripresisi', 'presisi', 'polisi', 'polisi', 'polisiindonesia', 'polisikeren', 'polisimilitary', 'sdm', 'ssdm', 'sisdm', 'indonesia', 'emas', 'indonesiaemas', 'damaiindonesia', 'sulselmaju', 'poldasulsel', 'aman', 'masyarakat', 's', 'fyp', 'sdmunggul']",positive
+"['dukung', 'sampeyan', 'bp', 'ganjarpranowo', 'amp', 'prof', 'mahfudmd', 'pasti', 'ketuamk', 'nya', 'uncle', 'anwarusman', 'mkri', 'officialmkri', 'hakim', 'mahkamahkonstitusi', 'dprd', 'dki', 'indonesiaemas', 'tniau', 'indonesiamaju', 'prabowo', 'menhan', 'tahan', 'riau', 'jokowi', 'tniad', 'malang']",positive
+"['ucap', 'terima', 'kasih', 'presiden', 'pilih', 'prabowo', 'projo', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['bentuk', 'konfrontasi', 'politik', 'uras', 'energi', 'ganggu', 'laksana', 'programprogram', 'bangun', 'nasional', 'projo', 'jokowi', 'indonesiaemas']",positive
+"['kompastv', 'indonesiaemas', 'jokowi', 'ccpchina', 'gemoy', 'samsul']",negative
+"['malam', 'jalan', 'kertanegara', 'ucap', 'terimakasih', 'utk', 'budi', 'arie', 'setiadi', 'projo', 'rekan', 'juang', 'menang', 'rakyat', 'projo', 'jokowi', 'prabowogibran', 'indonesiaemas']",positive
+"['partai', 'psiid', 'suntik', 'dana', 'trilyun', 'prabowosubianto', 'lonte', 'politik', 'gracenat', 'amp', 'kader', 'partai', 'mawar', 'merah', 'rame', 'jilat', 'menhan', 'prabowo', 'betapa', 'rendah', 'milu', 'pilpres', 'indonesiaemas', 'jokowi', 'gibran', 'indonesiamaju']",positive
+"['selamat', 'menang', 'h', 'prabowo', 'gibran', 'gantung', 'nkri', 'prabowogibran', 'indonesiaemas', 'presidenrakyat']",positive
+"['selamat', 'prabowo', 'subianto', 'mas', 'gibran', 'rakabuming', 'raka', 'presiden', 'wakil', 'presiden', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas', 'tegaklurusbersamajokowi']",positive
+"['menang', 'prabowo', 'gibran', 'menang', 'rakyat', 'indonesia', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas', 'tegaklurusbersamajokowi', 'prabowogibranlanjutkan', 'gibranjagoanku']",positive
+"['selamat', 'hprabowo', 'subianto', 'amp', 'gibran', 'rakabuming', 'raka', 'tetap', 'presiden', 'amp', 'wakil', 'presiden', 'ri', 'projo', 'jokowi', 'indonesiaemas']",positive
+"['sinyal', 'satu', 'nasional', 'projo', 'jokowi', 'indonesiaemas']",neutral
+"['orang', 'kaya', 'ga', 'anak', 'orang', 'anak', 'rezeki', 'indonesiaemas']",positive
+"['komite', 'ham', 'pbb', 'netralitas', 'jokowi', 'milu', 'ri', 'perintah', 'pbb', 'unesco', 'unicef', 'indonesiamaju', 'indonesiaemas', 'kementerianluarnegeri', 'politik']",neutral
+"['harap', 'penuh', 'baik', 'silaturahmi', 'kelompok', 'masyarakat', 'erat', 'saudara', 'kuat', 'projo', 'jokowi', 'indonesiaemas']",positive
+"['kemarin', 'dpp', 'projo', 'gelar', 'buka', 'puasa', 'acara', 'hadir', 'kerabat', 'acara', 'kemas', 'sederhana', 'penuh', 'sukacita', 'syukur', 'sempat', 'bagi', 'ramadan', 'projo', 'jokowi', 'indonesiaemas', 'budiariesetiadi']",neutral
+"['projo', 'ajak', 'komponen', 'masyarakat', 'awal', 'hitung', 'resmi', 'kpu', 'apa', 'hasil', 'putus', 'rakyat', 'indonesia', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['projo', 'hormat', 'juang', 'politik', 'pilpres', 'kemarin', 'dukung', 'pasang', 'prabowo', 'subiantogibran', 'rakabuming', 'raka', 'prabowogibran', 'projo', 'jokowi', 'indonesiaemas']",positive
+"['komisi', 'pilih', 'kpu', 'kpuri', 'rampung', 'hitung', 'suara', 'hasil', 'milu', 'projo', 'milu', 'laksana', 'transparan', 'sesuai', 'tentu', 'laku', 'projo', 'jokowi', 'indonesiaemas', 'budiariesetiadi']",negative
+"['koalisi', 'gemuk', 'koalisi', 'gemoy', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['budi', 'arie', 'anggap', 'nyata', 'dipertanggungjawabkan', 'halusinasi', 'suara', 'persen', 'persen', 'budi', 'arie', 'temuantemuan', 'duga', 'curang', 'milu', 'langsung', 'lapor', 'bawasluri', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['yusril', 'ihza', 'mahendra', 'yusrilihzamhd', 'dukung', 'prabowo', 'mas', 'gibranrakabuming', 'pimpin', 'cerdas', 'visioner', 'indonesia', 'emas', 'bantenhay', 'promedia', 'yusrilihzamahendra', 'prabowosubianto', 'gibranrakabumingraka', 'indonesiaemas']",positive
+"['elite', 'tim', 'kampanye', 'nasional', 'tkn', 'prabowogibran', 'hadir', 'acara', 'balut', 'buka', 'puasa', 'beri', 'santun', 'anak', 'yatim', 'projo', 'jokowi', 'indonesiaemas']",neutral
+"['dpp', 'projo', 'gelar', 'potong', 'tumpeng', 'syukur', 'menang', 'calon', 'presiden', 'wakil', 'presiden', 'prabowo', 'subianto', 'gibran', 'rakabuming', 'pancoran', 'timur', 'raya', 'jakarta', 'selatan', 'senin', 'projo', 'jokowi', 'indonesiaemas', 'bukber', 'ramadhan']",neutral
+"['koalisi', 'gemuk', 'kurus', 'koalisi', 'gemoy', 'terjemahin', 'deh', 'sesuai', 'nama', 'kutip', 'koalisi', 'gemuk', 'kurus', 'koalisi', 'gemoy', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['jokowi', 'milu', 'indonesiaemas', 'ikn', 'jalan', 'tol', 'bandara']",negative
+"['rekapitulasi', 'milu', 'provinsi', 'sah', 'kpuid', 'prabowo', 'gibran', 'atas', 'oleh', 'suara', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['peka', 'pimpin', 'hormat', 'azan', 'magrib', 'arah', 'hormat', 'harga', 'indonesiaemas', 'indonesiaemas', 'bijak', 'kapolri', 'pemimpinbijak', 'pemimpinindonesia', 'teladan', 'teladan', 'salingmengingatkan', 'salingsupport', 'salingmenghargai', 'adzan']",neutral
+"['indonesia', 'maju', 'jokowi', 'prabowo', 'indonesiamaju', 'indonesiaemas']",positive
+"['pilpres', 'milu', 'selesai', 'tinggal', 'elit', 'politik', 'budi', 'arie', 'dpp', 'projo', 'perdatam', 'pancoran', 'jakarta', 'selatan', 'jaksel', 'senin', 'projo', 'jokowi', 'indonesiaemas']",neutral
+"['dukung', 'upaya', 'perintah', 'bangun', 'ikn', 'ikn', 'nusantara', 'membangunnegeri', 'indonesiaemas', 'indonesiasejahtera', 'bangun']",positive
+"['rekonsiliasi', 'nilai', 'program', 'prabowogibran', 'jalan', 'bantu', 'projo', 'jokowi', 'indonesiaemas']",neutral
+"['rekonsiliasi', 'negara', 'maju', 'satu', 'nasional', 'dukung', 'rekonsiliasi', 'nasional', 'budie', 'arie', 'temu', 'acara', 'bukber', 'kantor', 'dpp', 'projo', 'pancoran', 'jaksel', 'senin', 'projo', 'jokowi', 'indonesiaemas']",neutral
+"['dpp', 'projo', 'ada', 'bukber', 'santunin', 'anak', 'yatim', 'amp', 'syukur', 'prabowo', 'gibran', 'menang', 'projo', 'jokowi', 'indonesiaemas', 'bukber', 'ramadan']",negative
+"['hardye', 'terang', 'nyata', 'jalan', 'orba', 'bangkit', 'dr', 'indonesiacemas']",positive
+"['selamat', 'nyala', 'juara', 'all', 'england', 'projo', 'jokowi', 'indonesiaemas', 'allengland']",positive
+"['hasil', 'prabowo', 'subianto', 'gibran', 'rakabuming', 'kuasa', 'provinsi', 'anies', 'buncit', 'ganjar', 'pranowo', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['vonnycornellya', 'jokowi', 'tuanku', 'raja', 'tutup', 'mata', 'rakyat', 'muak', 'indonesiacemas']",negative
+"['rekapitulasi', 'final', 'kpu', 'provinsi', 'prabowo', 'gibran', 'unggul', 'tinggal', 'paslon', 'amp', 'tinggal', 'sisa', 'provinsi', 'projo', 'jokowi', 'indonesiaemas']",neutral
+"['illuminatidrpme', 'usaha', 'kaca', 'kpd', 'semdiri', 'indonesiaemas']",positive
+"['ekokuntadhi', 'aja', 'jan', 'etes', 'jadiin', 'tokoh', 'nasional', 'indonesiacemas']",neutral
+"['tiktok', 'alibaba', 'ccpchina', 'belimbing', 'gemoy', 'indonesia', 'indonesiaemas', 'milu']",positive
+"['tinggal', 'elite', 'politik', 'harap', 'moga', 'elite', 'politik', 'rukun', 'proses', 'konsolidasi', 'jalan', 'budi', 'wartawan', 'jakarta', 'kamis', 'projo', 'jokowi', 'indonesiaemas']",positive
+"['selamat', 'pg', 'tuan', 'presiden', 'jokowi', 'skdr', 'contoh', 'dr', 'sbgian', 'daerah', 'indonesia', 'emas', 'indonesiacemas']",positive
+"['beda', 'dapat', 'politik', 'wajar', 'lapis', 'masyarakat', 'jaga', 'rukun', 'pasca', 'milu', 'rawat', 'kebhinekaan', 'pemiluindonesiadamai', 'damaiindonesia', 'tiktokban', 'ramadan', 'pemiludamai', 'indonesiaemas']",positive
+"['arsipaja', 'kelen', 'gagal', 'sejahtera', 'ternak', 'tani', 'kalo', 'jadi', 'gin', 'kelen', 'ngomongin', 'sedekah', 'coba', 'henti', 'proyek', 'mercusuar', 'ikn', 'sedekah', 'tani', 'ternak', 'subhanallah', 'indonesiaemas']",positive
+"['prabowo', 'gibran', 'optimisme', 'indonesia', 'emas', 'webinar', 'ekonomi', 'projo', 'muda', 'jakarta', 'jumat', 'maret', 'wib', 'zoom', 'id', 'pass', 'projo', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiaemas']",positive
+"['presiden', 'gubernur', 'aktif', 'bupati', 'jalan', 'kerja', 'nya', 'anggota', 'dewan', 'lokasi', 'wilayah', 'ko', 'jalan', 'negara', 'negara', 'indonesia', 'maju', 'indonesiamaju', 'indonesiaemas', 'prabowogibran', 'mentripupr']",neutral
+"['samsul', 'gemoy', 'indonesiaemas', 'milu']",positive
+"['budi', 'arie', 'apresiasi', 'hitung', 'kawalpemilu', 'prabowogibran', 'menang', 'putar', 'budi', 'arie', 'ajak', 'satu', 'milu', 'projo', 'jokowi', 'indonesiaemas']",positive
+"['projo', 'respon', 'hak', 'angket', 'selisih', 'juta', 'suara', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['ramadan', 'selamat', 'buka', 'puasa', 'projo', 'jokowi', 'indonesiaemas']",neutral
+"['tanggap', 'projo', 'hak', 'angket', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['hak', 'angket', 'gimana', 'selisih', 'oleh', 'suara', 'jutahak', 'angket', 'coba', 'dipikirin', 'curang', 'juta', 'loh', 'selisih', 'rb', 'selisih', 'juta', 'hebat', 'curang', 'juta', 'ya', 'hak', 'angket', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['teliti', 'temu', 'indikasi', 'curang', 'pascapencoblosan', 'pilpres', 'struktur', 'amp', 'sistematis', 'untung', 'salah', 'paslon', 'tulis', 'kawalpemiluorg', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['prabowo', 'gibran', 'menang', 'telak', 'dasar', 'hasil', 'rekapitulasi', 'suara', 'milu', 'negeri', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'dppprojo', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas', 'tegaklurusbersamajokowi', 'gibranjagoanku']",negative
+"['menteri', 'kominfo', 'budi', 'arie', 'setiadi', 'hadir', 'acara', 'baznas', 'istana', 'merdeka', 'projo', 'jokowi', 'indonesiaemas']",neutral
+"['menang', 'presiden', 'pajak', 'tau', 'data', 'maret', 'lucu', 'aja', 'klo', 'berstetmen', 'data', 'wkwkwkwk', 'pajaknaik', 'parobowo', 'dirjenpajak', 'indonesiaemas', 'milu']",negative
+"['ramadan', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['indonesia', 'emas', 'lpdp', 'brin', 'kolaborasi', 'beasiswa', 'bidang', 'nuklir', 'ayobacanews', 'news', 'newsupdate', 'beasiswa', 'indonesiaemas']",neutral
+"['tanmarm', 'yg', 'jg', 'indonesiacemas']",positive
+"['teddgus', 'ganjarpranowo', 'mohmahfudmd', 'perintah', 'jokowi', 'menang', 'telak', 'dlm', 'dukung', 'pilpres', 'pilih', 'rakyat', 'paslon', 'ri', 'presiden', 'prabowo', 'gibrantweet', 'indonesiaemas', 'prabowogibran', 'baik']",positive
+"['teddgus', 'ganjarpranowo', 'mohmahfudmd', 'prabowo', 'gibrantweet', 'perintah', 'jokowi', 'menang', 'telak', 'dlm', 'dukung', 'pilpres', 'pilih', 'rakyat', 'paslon', 'ri', 'presiden', 'prabowo', 'gibrantweet', 'indonesiaemas', 'prabowogibran', 'baik']",positive
+"['stefanantonio', 'jokowi', 'perintah', 'jokowi', 'menang', 'telak', 'dlm', 'dukung', 'pilpres', 'pilih', 'rakyat', 'paslon', 'ri', 'presiden', 'prabowo', 'gibrantweet', 'indonesiaemas', 'prabowogibran', 'baik']",positive
+"['bangsaygsujud', 'prabowo', 'gibrantweet', 'indonesia', 'baik', 'perintah', 'jokowi', 'menang', 'telak', 'dlm', 'dukung', 'pilpres', 'pilih', 'rakyat', 'paslon', 'ri', 'presiden', 'prabowo', 'gibrantweet', 'indonesiaemas', 'prabowogibran', 'baik']",positive
+"['hmjusufrizal', 'kpuid', 'bawasluri', 'jokowi', 'prabowo', 'ganjarpranowo', 'mohmahfudmd', 'aniesbaswedan', 'cakiminow', 'puanmaharaniri', 'airlanggahrt', 'zulhasan', 'katabewe', 'sbyudhoyono', 'yg', 'perintah', 'jokowi', 'menang', 'telak', 'dlm', 'dukung', 'pilpres', 'pilih', 'rakyat', 'paslon', 'ri', 'presiden', 'prabowo', 'gibrantweet', 'indonesiaemas', 'prabowogibran', 'baik']",positive
+"['anaklolina', 'kesini', 'perintah', 'jokowi', 'menang', 'telak', 'dlm', 'dukung', 'pilpres', 'pilih', 'rakyat', 'paslon', 'ri', 'presiden', 'prabowo', 'gibrantweet', 'indonesiaemas', 'prabowogibran', 'baik']",positive
+"['partaisocmed', 'perintah', 'jokowi', 'menang', 'telak', 'dlm', 'dukung', 'pilpres', 'pilih', 'rakyat', 'paslon', 'ri', 'presiden', 'prabowo', 'gibrantweet', 'indonesiaemas', 'prabowogibran', 'baik']",positive
+"['selamat', 'tugas', 'selamat', 'jalan', 'amanat', 'rakyat', 'mas', 'wali', 'gibrantweet', 'dunia', 'indonesia', 'maju', 'nik', 'toko', 'kulo', 'monggo', 'difollow', 'kpi', 'klinikposterindonesia', 'indonesiaemas', 'indonesia', 'indonesiaemas', 'indonesiamaju']",neutral
+"['kapolri', 'mari', 'sambut', 'ramadan', 'penuh', 'suka', 'cita', 'kaporli', 'ramadan', 'sukacita', 'indonesiaemas']",positive
+"['tum', 'projo', 'budi', 'arie', 'buka', 'buka', 'momen', 'cakap', 'jokowi', 'deklarasi', 'istana', 'batu', 'tulis', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['jokowi', 'maestro', 'politik', 'indonesia', 'budi', 'arie', 'setiadi', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['uu', 'cipta', 'kerja', 'baik', 'iklim', 'sehat', 'investasi', 'ciptakerja', 'investment', 'oscars', 'indonesiaemas']",positive
+"['selamat', 'tunai', 'ibadah', 'puasa', 'projo', 'jokowi', 'indonesiaemas']",neutral
+"['engak', 'tau', 'milu', 'indonesiaemas', 'belimbing', 'gemoy']",neutral
+"['tum', 'projo', 'budi', 'arie', 'setiadi', 'sang', 'cenayang', 'politik', 'pilpres', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['indonesiaemas', 'belimbing', 'gemoy', 'milu']",positive
+"['tempodotco', 'indonesiaemas', 'belimbing', 'gemoy']",positive
+"['serunipuspaalam', 'kecewa', 'yg', 'manusiawi', 'kalah', 'telak', 'curang', 'amp', 'khianat', 'tambah', 'bonus', 'intimidasi', 'kontestasi', 'indonesiacemas']",negative
+"['selamat', 'tunai', 'ibadah', 'puasa', 'ramadan', 'ramadan', 'ramadan', 'projo', 'jokowi', 'indonesiaemas']",neutral
+"['setia', 'garis', 'rakyat', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['pilpres', 'masa', 'jokowi', 'amp', 'prabowo', 'satu', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['cursedkidd', 'ervinad', 'saing', 'dgn', 'gudono', 'indonesiaemas']",positive
+"['selamat', 'nyepi', 'projo', 'jokowi', 'indonesiaemas']",positive
+"['hasil', 'prediksi', 'budi', 'arie', 'tum', 'pro', 'jokowi', 'menang', 'prabowo', 'gibran', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['projo', 'arah', 'jokowi', 'dukung', 'prabowo', 'nanyanya', 'salah', 'budi', 'arie', 'setiadi', 'tum', 'projo', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['prabowo', 'gibran', 'unggul', 'mana', 'suara', 'ya', 'yaa', 'nyala', 'abang', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas', 'tegaklurusbersamajokowi', 'gibranjagoanku']",positive
+"['greenflation', 'mas', 'gibran', 'rakabuming', 'raka', 'indonesia', 'hasil', 'raja', 'energi', 'hijau', 'dunia', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas', 'tegaklurusbersamajokowi', 'gibranjagoanku']",positive
+"['keluarga', 'projo', 'penjuru', 'awal', 'ketat', 'pimpin', 'presiden', 'joko', 'widodo', 'periode', 'oktober', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas', 'gibranjagoanku']",positive
+"['selamat', 'perempuan', 'internasional', 'womansday', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['gapapa', 'indonesiaemas', 'tangan', 'klen']",negative
+"['padu', 'suara', 'maranatha', 'skip', 'ambon', 'bantu', 'harap', 'dukung', 'kembang', 'seni', 'musik', 'lingkung', 'gereja', 'gerindra', 'aksinyata', 'prabowosubianto', 'prabowogibran', 'indonesiamaju', 'indonesiaemas']",positive
+"['yakin', 'pro', 'jokowi', 'laksana', 'sesuai', 'analisa', 'tum', 'projo', 'budi', 'arie', 'setiadi', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['ikn', 'lanjut', 'simbol', 'perata', 'bangun', 'transformasi', 'bangun', 'indonesia', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas', 'tegaklurusbersamajokowi', 'gibranjagoanku']",positive
+"['calon', 'wakil', 'presiden', 'pilih', 'mas', 'gibran', 'rakabuming', 'raka', 'agenda', 'indonesia', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas', 'tegaklurusbersamajokowi', 'gibranjagoanku']",positive
+"['gibran', 'rakabuming', 'raka', 'pimpin', 'muda', 'indonesia', 'bawa', 'indonesia', 'income', 'middle', 'trap', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas', 'tegaklurusbersamajokowi', 'gibranjagoanku']",positive
+"['indiavrindavan', 'kenal', 'dgn', 'absurd', 'bangsa', 'indonesia', 'absurd', 'x', 'lipat', 'vrindavan', 'indonesiaemas']",neutral
+"['motivasi', 'ajar', 'indonesia', 'berwirausaha', 'tukang', 'sampah', 'das', 'swmangatkerja', 'semangatpagi', 'sampah', 'wirausahasukses', 'berwirausaha', 'usaha', 'anakpelajar', 'indonesiaemas', 'pelajarhitz', 'pelajarkekinian', 'pelajarsantuy', 'didik', 'kurikulummerdeka', 'kurikulummerdekabelajar']",negative
+"['menteri', 'komunikasi', 'informatika', 'ri', 'budi', 'arie', 'setiadi', 'imbau', 'industri', 'terap', 'strategi', 'guna', 'ai', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas', 'tegaklurusbersamajokowi']",neutral
+"['peringkat', 'indonesia', 'asean', 'i', 'daya', 'saing', 'posisi', 'tawar', 'i', 'indonesiaemas', 'fakta', 'asean', 'moga', 'perintah', 'presiden', 'jokowi', 'jokowidodo', 'perintah', 'hasil', 'pilpres', 'pileg', 'prabowogibran', 'prabowo', 'perhati']",positive
+"['sesuai', 'arah', 'ketua', 'partai', 'gerindra', 'prabowo', 'subianto', 'bahwasannya', 'kader', 'gerindra', 'ujung', 'tombak', 'juang', 'bantu', 'butuh', 'masyarakat', 'gerindra', 'aksinyata', 'prabowosubianto', 'prabowogibran', 'indonesiamaju', 'indonesiaemas']",negative
+"['pengabdikasep', 'convomfs', 'stop', 'coli', 'indonesiaemas', 'a']",neutral
+"['tech', 'amp', 'telco', 'summit', 'ai', 'meets', 'telco', 'reimagining', 'business', 'in', 'digital', 'landscape', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'dppprojo', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas', 'tegaklurusbersamajokowi', 'prabowogibranlanjutkan']",neutral
+"['pimpin', 'mulkan', 'jabariah', 'gak', 'sadar', 'kuasa', 'angkat', 'sebentar', 'shg', 'sadar', 'hancur', 'sistem', 'indonesiaemas', '']",neutral
+"['selmat', 'prabowo', 'gibrantweet', 'dikit', 'lantik', 'oktober', 'presiden', 'wakil', 'presiden', 'indonesia', 'fyp', 'fyp viral', 'fyp', 'fypage', 'viral', 'viralindo', 'indonesiamaju', 'indonesia', 'indonesiaemas', 'emas', 'prabowo', 'gibran', 'prabowogibran']",positive
+"['aksi', 'mahasiswa', 'tolak', 'hak', 'angket', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['budi', 'arie', 'setiadi', 'menteri', 'komunikasi', 'informatika', 'peran', 'diaspora', 'butuh', 'indonesia', 'maju', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'dppprojo', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas']",neutral
+"['presiden', 'jokowi', 'buka', 'kongres', 'pgri', 'indonesia', 'emas', 'jokowi', 'indonesiaemas', 'pgri', 'news']",negative
+"['nadg', 'iyaa', 'td', 'liat', 'ig', 'indonesiaemas', 'tim', 'nya', 'pergi', 'jugak']",neutral
+"['kapolri', 'tekan', 'persatuankesatuan', 'wujud', 'indonesia', 'emas', 'kapolri', 'indonesiaemas']",neutral
+"['presiden', 'pilih', 'nanti', 'tugas', 'i', 'pr', 'besar', 'viralvideos', 'indoviral', 'indonesia', 'indonesiamaju', 'prabowo', 'jokowi', 'anies', 'ganjar', 'heru', 'hakangket', 'korupsi', 'timpang', 'senjang', 'kualitassdm', 'indonesiaemas']",negative
+"['om', 'komjen', 'dharma', 'pongrekun', 'hutang', 'indonesia', 'selesai', 'sumber', 'dana', 'bangun', 'negara', 'hutang', 'hapushutangindonesia', 'indonesiaemas', 'evilcabal']",positive
+"['budicahyasetia', 'ndonsback', 'propaganda', 'alexemeru', 'aliefahnoor', 'almaghribis', 'andreassolusi', 'bankjoee', 'bangsaygsujud', 'areinismyname', 'ejaferdiansyah', 'presiden', 'jokowi', 'anugerah', 'pangkat', 'istimewa', 'prabowo', 'sesuai', 'uu', 'jokowi', 'prabowo', 'nkrimembangun', 'indonesiaemas', 'adilmakmur']",positive
+"['ardisatriawan', 'indonesiaemas', 'banyak', 'oke', 'gas', 'sih']",neutral
+"['survei', 'indikator', 'catat', 'tingkat', 'puas', 'publik', 'selenggara', 'milu', 'dominan', 'responden', 'puas', 'persen', 'puas', 'responden', 'yg', 'puas', 'amp', 'tdk', 'puas', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['satu', 'negara', 'indonesia', 'penting', 'jaga', 'negeri', 'utuh', 'utuh', 'wujud', 'rakyat', 'cinta', 'satu', 'cinta', 'damai', 'cinta', 'saudara', 'milu', 'indonesiaemas']",positive
+"['rekapitulasi', 'suara', 'milu', 'tingkat', 'nasional', 'laksana', 'transparan', 'pemiludamai', 'pemiluindonesia', 'indonesiaemas', 'taylorswift', 'damaipemiluindonesia']",neutral
+"['campur', 'urus', 'negara', 'satu', 'republik', 'indonesia', 'indonesia', 'negara', 'indonesia', 'negara', 'rintis', 'juang', 'word', 'indonesia', 'indonesiaemas']",neutral
+"['cepat', 'pulih', 'indonesia', 'ku', 'indonesiaemas']",positive
+"['selamat', 'prabowo', 'resmi', 'sandang', 'jenderal', 'bintang', 'langsung', 'presiden', 'joko', 'widodo', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas', 'tegaklurusbersamajokowi']",positive
+"['pilih', 'beda', 'jaga', 'satu', 'pemiludamai', 'indonesiaemas']",negative
+"['selamat', 'raya', 'galungan', 'amp', 'kuningan', 'projo', 'jokowi', 'indonesiaemas', 'galungankuningan']",positive
+"['indonesia', 'damai', 'adil', 'makmur', 'sejahtera', 'indonesia', 'indonesiakuatindonesiamaju', 'indonesiaemas', 'milu', 'pemiluindonesia', 'pemiludamai']",positive
+"['selamat', 'jenderal', 'prabowo', 'naik', 'pangkat', 'nya', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['presiden', 'jokowi', 'ajak', 'tnipolri', 'sinergi', 'wujud', 'visi', 'indonesia', 'emas', 'puspentni', 'divhumaspolri', 'presidenjokowi', 'indonesiaemas', 'tni', 'polri', 'news']",positive
+"['bandarantariksa', 'sugar', 'daddy', 'indonesiaemas']",positive
+"['lesat', 'optimisme', 'wujud', 'citacita', 'bangsa', 'indonesia', 'emas', 'semangatmenyala', 'indonesiaemas', 'indonesiamaju', 'psipartaijokowi']",positive
+"['indonesia', 'damai', 'rakyat', 'bahagia', 'projo', 'jokowi', 'indonesiaemas']",positive
+"['asumsico', 'bacot', 'emang', 'mudah', 'banding', 'ngurus', 'beras', 'indonesiacemas']",negative
+"['selamat', 'pagi', 'indonesia', 'malapetaka', 'hidup', 'bangsa', 'negara', 'penting', 'keluarga', 'kelompok', 'kalah', 'penting', 'bangsa', 'negara', 'nasionalisme', 'adil', 'revolusimental', 'indonesiaemas']",positive
+"['henrysubiakto', 'nato', 'generasiemas', 'indonesiaemas']",positive
+"['selebtwitmobil', 'slh', 'efek', 'domino', 'sdm', 'birokrasi', 'lain', 'nya', 'sdm', 'indah', 'rambu', 'pakai', 'kendara', 'tambah', 'birokrasi', 'sim', 'gk', 'contoh', 'negara', 'nekan', 'bar', 'an', 'kemudi', 'indonesiaemas', 'mimpi']",negative
+"['projo', 'narasi', 'curang', 'milu', 'wujud', 'penghianatan', 'daulat', 'rakyat', 'kutip', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas', 'tegaklurusbersamajokowi']",negative
+"['momen', 'hangat', 'diskusi', 'santai', 'prabowo', 'mas', 'gibran', 'kertanegara', 'prabowo', 'gibrantweet', 'prabowogibran', 'prabowosubianto', 'masgibran', 'indonesiaterusmaju', 'indonesiaemas', 'dobmuzakir', 'gerindra', 'pilpres', 'prabowopresiden', 'trending', 'viral', 'dukung']",positive
+"['bengkeldodo', 'bentangnegeri', 'lembayung', 'ejaferdiansyah', 'ordebaroe', 'irawanrommi', 'xquitavee', 'temanduit', 'masveel', 'genx', 'berkahmulia', 'wuanjaayy', 'keren', 'nih', 'presiden', 'gw', 'presiden', 'klean', 'okeh', 'gas', 'okeh', 'gass', 'indonesiacemas']",negative
+"['prabowo', 'ubah', 'ajak', 'dukung', 'menjujung', 'damai', 'siapp', 'presiden', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas', 'tegaklurusbersamajokowi']",positive
+"['rusak', 'indonesiaemas', 'brpa', 'org', 'yg', 'ahli', 'sj', 'peluang', 'baik', 'sistembagaimna', 'negeri', 'dpt', 'saing', 'dg', 'asing', 'mngotori', 'founder', 'father', 'yg', 'brjuang', 'smpai', 'mnumpahkan', 'darah', 'sja', 'tai', 'ajigggg', 'emosi', 'lihat', 'dungu', 'rebak', 'opsaveindonesia']",negative
+"['renaldiss', 'pendekar', 'aniesbaswedan', 'idiwwww', 'omes', 'pendkung', 'kubu', 'belah', 'inih', 'mesum', 'yg', 'lain', 'dluar', 'nurul', 'suka', 'jenis', 'tukang', 'judi', 'onlen', 'kacaauuu', 'indonesiacemas']",negative
+"['ucap', 'syukur', 'prabowo', 'gibran', 'dasar', 'quick', 'count', 'menang', 'putar', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'indonesiamaju', 'indonesiaemas', 'tegaklurusbersamajokowi', 'prabowogibran', 'gibranjagoanku', 'silentmajority']",positive
+"['selamat', 'prabowo', 'gibran', 'rawan', 'projo', 'menang', 'putar', 'tegak', 'lurus', 'presiden', 'joko', 'widodo', 'projo', 'muda', 'muda', 'abdi', 'dunia', 'projo', 'projomuda', 'setiadigarisrakyat', 'mudamengabdimendunia', 'tegaklurusbersamajokowi', 'indonesiamaju', 'indonesiaemas', 'gibranjagoanku']",positive
+"['terus', 'estafet', 'baik', 'satu', 'perintah', 'prabowo', 'gibrantweet', 'prabowosubianto', 'gibranrakabumingraka', 'presiden', 'persatuanindonesia', 'menjagapersatuanindonesia', 'negaraindonesia', 'kepemimpinanprabowogibran', 'prabowountukindonesia', 'x', 'indonesiaemas']",negative
+"['kuak', 'susun', 'kabinet', 'indonesia', 'emas', 'prabowogibran', 'jokowi', 'grace', 'natalie', 'libat', 'editor', 'jabar', 'ekspres', 'nurliasa', 'jabarekspres', 'kabinet', 'indonesiaemas', 'susunankabinet', 'prabowogibran', 'gracenatalie', 'pilpres']",neutral
+"['tanyakanrl', 'wanita', 'buat', 'jatuh', 'cinta', 'cinta']",positive
+"['tanyakanrl', 'diketawain', 'bocil', 'smp', 'yg', 'udah', 'pinter', 'ngentot']",positive
+"['kegblgnunfaedh', 'saksi', 'chasil', 'salinanppwp', 'yg', 'versi', 'pdf', 'sirekap']",negative
+"['selamat', 'malam', 'minggu', 'salamkeberlanjutan', 'indonesiaemas']",neutral
+"['damai', 'indah', 'ayooo', 'rapat', 'baris', 'bangun', 'indonesia', 'bersamasama', 'indonesiaemas', 'salam', 'sahabat', 'thejohan', '', 'note', 'gak', 'tag']",positive
+"['maju', 'sejahtera', 'rata', 'indonesiamaju', 'indonesiaemas']",neutral
+"['geber', 'infrastruktur', 'indonesia', 'maju', 'indonesiamaju', 'indonesiaemas']",neutral
+"['wujud', 'indonesiasentris', 'indonesiamaju', 'indonesiaemas']",positive
+"['kuat', 'nilainilai', 'kebhinekaan', 'indonesiamaju', 'indonesiaemas']",positive
+"['capai', 'takjub', 'perintah', 'presiden', 'jokowi', 'indonesiamaju', 'indonesiaemas']",positive
+"['jalan', 'indonesia', 'maju', 'indonesia', 'emas', 'gibran', 'indonesiaemas', 'bersamaindonesiamaju']",neutral
+"['muthiastp', 'ngapain', 'kritik', 'program', 'hitung', 'matang', 'indonesiaemas', '']",neutral
+"['tedinvestigasi', 'babaali', 'stopplandemit', 'sy', 'dukung', 'indonesia', 'yg', 'sejahtera', 'indonesiaemas']",positive
+"['prabowo', 'sehat', 'presiden', 'rakyat', 'indonesia', 'temu', 'pimpin', 'hebat', 'bawa', 'bangsa', 'indonesia', 'indonesiaemas']",positive
+"['zyzyfyu', 'indonesiaemas', 'janethes']",positive
+"['kalah', 'menang', 'raya', 'pilpres', 'prabowo', 'pragib', 'gibran', 'indonesiaemas']",negative
+"['terima', 'kasih', 'gera', 'senyap', 'silent', 'majority', 'voters', 'yes', 'greatest', 'movement', 'guys', 'genxyz', 'anakmudamilenial', 'salamjari', 'nkrihargamati', 'indonesiaemas', 'indonesiaberdikari', 'jagapersatuandankesatuan', '']",positive
+"['takda', 'kpuid', 'presiden', 'pilih', 'pilih', 'dgn', 'curang', 'jujur', 'kalo', 'buruk', 'jokowi', 'timbul', 'yg', 'yg', 'kalo', 'hantar', 'indonesia', 'pintu', 'gerbang', 'emas', 'jaya', 'presiden', 'indonesiaemas']",negative
+"['', 'selamat', 'prabowo', 'gibrantweet', 'indonesiamaju', 'indonesiaemas', 'prabowogibran', 'salamduajari', 'salamtoleransi']",positive
+"['prabowo', 'kawal', 'sampe', 'hitung', 'kpuid', 'prabowo', 'presiden', 'ku', 'mas', 'gibrantweet', 'wakil', 'presiden', 'ku', 'bersamaindonesiamaju', 'prabowogibran', 'prabowogibranmenang', 'satuputaran', 'indonesiaemas']",negative
+"['asumsi', 'liar', 'andai', 'jokowi', 'hasil', 'nikah', 'maju', 'bangsa', 'negara', 'asli', 'gokill', 'banget', 'indonesiarukun', 'indonesiamaju', 'indonesiaemas']",neutral
+"['lets', 'go', 'to', 'indonesia', 'emas', 'jokowi', 'gibrantweet', 'kaesangp', 'prabowo', 'partaisocmed', 'karya', 'tangan', 'alat', 'ada', 'indonesiaemas', 'pragib', 'menangseputaran']",positive
+"['ikhlas', 'rendah', 'uji', 'pilih', 'kalah', 'terima', 'pilih', 'menang', 'jumawa', 'indonesiaemas', 'salamdamai', 'selamat']",positive
+"['dukung', 'duli', 'dukung', 'nilai', 'anjlok', 'pas', 'debat', 'capres', 'dukung', 'kompak', 'serang', 'dukung', 'pilpres', 'indonesiaemas']",positive
+"['angkuh', 'kalah', 'silent', 'majority', 'indonesiaemas']",negative
+"['allah', 'ajar', 'sadar', 'bijaksana', 'orang', 'salamdamaiindonesiaku', 'indonesiamaju', 'indonesiaemas']",negative
+"['gibrantweet', 'maju', 'mas', 'wapres', 'fokus', 'bangun', 'maju', 'bangsa', 'negara', 'presiden', 'orang', 'senantiasa', 'kati', 'lindung', 'tyme', 'indonesiaemas']",positive
+"['milu', 'kelar', 'yuk', 'rangkul', 'ayo', 'bangun', 'indonesia', 'dg', 'kokoh', 'satu', 'mudah', 'adu', 'domba', 'pisah', 'takdir', 'tuhan', 'yg', 'maha', 'kuasa', 'indonesiaemas']",positive
+"['yg', 'menang', 'raya', 'yg', 'kalah', 'gak', 'terima', 'indonesiaemas']",negative
+"['coblos', 'ku', 'kau', 'presiden', 'prabowogibran', 'indonesiamaju', 'indonesiaemas']",negative
+"['ok', 'gas', 'ok', 'gass', 'selamat', 'prabowo', 'mas', 'gibran', 'selamat', 'putar', 'moga', 'visi', 'misi', 'wujud', 'allinprabowogibran', 'indonesiaemas']",positive
+"['selamat', 'prabowo', 'dn', 'mas', 'gibran', 'menang', 'smg', 'mnjd', 'pimpin', 'yg', 'amanah', 'dn', 'rakyat', 'prabowogibran', 'indonesiamemilihpresiden', 'indonesiaemas']",positive
+"['theredsindo', 'jokowi', 'master', 'mind', 'lihay', 'tampang', 'kyk', 'plenga', 'plongo', 'langkah', 'catur', 'biasaaa', 'indonesiamaju', 'indonesiaemas', 'indonesiaelection']",negative
+"['alhamdulillah', 'ya', 'rabb', 'indonesia', 'emas', 'valentinesday', 'pemiluserentak', 'february', 'prabowogibran', 'indonesiamemilihpresiden', 'indonesiaemas', 'indonesiamaju']",positive
+"['laju', 'indonesiaemas', 'indonesiaelection']",negative
+"['radenrauf', 'apa', 'ga', 'omon', 'doang', 'bener', 'ngebawa', 'indonesia', 'indonesiamemilihpresiden', 'indonesiaemas']",neutral
+"['gilaaa', 'roket', 'bos', 'mamam', 'mamposss', 'gw', 'dr', 'kemaren', 'diem', 'aja', 'yaa', 'ajg', 'klen', 'jelek in', 'okee', 'mojok', 'klen', 'ajg', 'gaterima', 'sakit', 'pindah', 'negara', 'aja', 'ajg', 'klen', 'rohingya', 'butuh', 'lu', 'yg', 'kek', 'ajg', 'prabowogibran', 'indonesiaemas']",negative
+"['gimana', 'cemas', 'kah', 'adick', 'yg', 'butuh', 'oskadon', 'mumpung', 'apotik', 'jam', 'ato', 'klen', 'baygon', 'gpp', 'prabowogibran', 'valentinesday', 'indonesiaemas']",neutral
+"['halusinasi', 'kait', 'nusantara', 'gajahmada', 'amp', 'hayam', 'wuruk', 'jam', 'emas', 'majapahit', 'prabowogibran', 'ikn', 'gerbang', 'indonesiaemas', 'condong', 'ngirain', 'akronim', 'gajah', 'mada', 'gama', 'tp', 'kesini', 'pasx']",neutral
+"['bu', 'puan', 'yth', 'kali', 'ajak', 'ganjar', 'jelek', 'jelekin', 'jokowi', 'biar', 'ganjar', 'aja', 'yg', 'jelek', 'jelekin', 'jokowi', 'next', 'ken', 'liat', 'maju', 'calon', 'presiden', 'ya', 'bu', 'indonesiaemas', 'menangseputaran']",negative
+"['lembaga', 'survey', 'prabowo', 'gibran', 'menang', 'moga', 'bijak', 'bijak', 'depan', 'prabowo', 'tunjuk', 'tangguh', 'gibran', 'cerdas', 'pemimpib', 'muda', 'indonesiaemas']",positive
+"['kuat', 'prasangka', 'prabowogibran', 'tim', 'indonesiaemas', 'jokowi', 'all', 'the', 'best']",positive
+"['selamat', 'prabowo', 'prabowo', 'mohon', 'laku', 'baik', 'indonesia', 'selamat', 'gerindra', 'milu', 'prabowogibran', 'indonesiaemas']",positive
+"['dah', 'indonesiacemas']",negative
+"['tanggung', 'pilih', 'pemiludamai', 'indonesiaemas']",negative
+"['prabowo', 'bro', 'samsul', 'gibrantweet', 'moga', 'kabul', 'citacita', 'harap', 'indonesia', 'maju', 'prabowogibran', 'prabowogibranmenang', 'indonesiamemilihpresiden', 'indonesiaemas']",positive
+"['well', 'done', 'indonesia', 'projo', 'jokowi', 'indonesiaemas']",positive
+"['lihat', 'video', 'de', 'mantap', 'tiktok', 'putar', 'prabowogibran', 'indonesia', 'maju', 'indonesia', 'emas', 'maju', 'pantang', 'mundur', 'prabowogibran', 'indonesiamaju', 'indonesiaemas', 'sekaliputaran']",positive
+"['nobar', 'quick', 'count', 'pilpres', 'hitung', 'menang', 'projo', 'jokowi', 'indonesiaemas']",positive
+"['netgear', 'indonesia', 'selamat', 'sukses', 'pilih', 'milu', 'mari', 'satu', 'jaga', 'milu', 'nan', 'damai', 'beda', 'pilih', 'penting', 'indonesia', 'milu', 'milu', 'satuindonesia', 'pemiludamai', 'indonesiamaju', 'indonesiaemas', 'netgearindonesia']",positive
+"['selamat', 'pagi', 'selamat', 'kasih', 'sayang', 'suara', 'wujud', 'cinta', 'bangsa', 'negara', 'prabiwigibranuntukindonesiamaju', 'indonesiaemas']",positive
+"['negara', 'indonesiaemas', 'tp', 'beras', 'stok', 'kosong', 'mana', 'tae']",negative
+"['beda', 'level', 'dukung', 'ngomong', 'bareng', 'gak', 'nyambung', 'dukung', 'beda', 'alam', 'maaf', 'bkn', 'songongmeski', 'beda', 'pilih', 'jgn', 'saudara', 'jd', 'putus', 'putus', 'pacar', 'indonesiatanahdemokrasi', 'indonesiakuatindonesiamaju', 'indonesiaemas', 'indonesiabersatu']",negative
+"['hilang', 'jenuh', 'versi', 'baik', 'fypviraltwitter', 'cogan', 'dailyshow', 'bogor', 'indonesiaemas', 'fyp']",neutral
+"['manusia', 'sehat', 'manusia', 'jaga', 'sehat', 'nya', 'sukses', 'kawan', 'indonesiaemas', 'juveudinese', 'superbowl', 'sincerao', 'pemiluindonesia', 'pemilukondusif']",positive
+"['manfaat', 'didik', 'didik', 'bangun', 'ekosistim', 'yg', 'si', 'hasil', 'didik', 'ijazah', 'silah', 'beda', 'pandang', 'marah', 'amp', 'caci', 'maki', 'attitude', 'ubah', 'lbh', 'indonesiaemas', 'tdk', 'dgn', 'makan', 'amp', 'sekolah', 'gratis']",positive
+"['indonesiaemas', 'astaghfirullah', 'naudzubillahiminzalik']",negative
+"['keren', 'bang', 'buka', 'hati', 'manusia', 'indonesia', 'indonesia', 'yg', 'bersih', 'wibawa', 'kelola', 'pribadi', 'yg', 'jujur', 'takut', 'allah', '', 'dirtyvote', 'indonesiaemas', 'indonesiawaspadapemilucurang', 'waspadapemilucurang', 'waspadapenukaranhasiltiaptps', 'waspa']",positive
+"['arielheryanto', 'mimpi', 'ku', 'presiden', 'biar', 'rusak', 'indonesia', 'indonesiaterserah', 'indonesiaemas']",negative
+"['let', 's', 'vote', 'hak', 'pilih', 'pilpres', 'indonesiaemas', 'milu', 'indonesiakuatindonesiamaju']",neutral
+"['astaghfirullah', 'naudzubillahiminzalik', 'ya', 'allah', 'rezim', 'nyusahin', 'rakyat', 'indonesiaemas', 'indonesiaemas']",negative
+"['ga', 'berani', 'kerna', 'kerna', 'dukung', 'amp', 'ga', 'suka', 'fakta', 'pake', 'apas', 'dukung', 'sadarwkwk', 'udah', 'liat', 'blum', 'ni', 'cak', 'imin', 'ubah', 'sholawat', 'dgn', 'nyindir', 'paslon', 'sebelahubah', 'si', 'ya', 'kalo', 'nyindir', 'no', 'indonesiaemas', 'indonesiamaju']",positive
+"['ayok', 'teman', 'teman', 'top', 'top', 'nya', 'situs', 'gacorslot', 'ketinggallan', 'hany', 'omong', 'omong', 'doang', 'gongxifacai', 'happynewyear', 'viral', 'viralindo', 'viralindonesia', 'viralterbaru', 'indonesiaemas', 'fypviraltwitter', 'fyp', 'fyp viral', 'fypage']",positive
+"['orang', 'perut', 'prabowosubianto', 'gibran', 'indonesiamaju', 'indonesiaemas']",negative
+"['egois', 'butuh', 'makan', 'gratis', 'internet', 'ampbbm', 'gratis', 'tarik', 'hidup', 'dunia', 'ga', 'prabowosubianto', 'gibran', 'indonesiamaju', 'indonesiaemas']",neutral
+"['survei', 'jelang', 'minggu', 'tenang', 'projo', 'jokowi', 'indonesiaemas']",neutral
+"['bukti', 'khan', 'daeng', 'ucu', 'indonesiacemas', 'daruratakalsehat', 'jokowihebat', 'jokowiperiode', 'prestasijokowi', 'nkrimajubersamajokowi']",positive
+"['film', 'koalisi', 'aja', 'knapa', 'suara', 'ribu', 'coblos', 'ngga', 'tampil', 'yaa', 'all', 'in', 'prabowo', 'allinprabowo', 'indonesiamaju', 'indonesiaemas', 'prabowosubianto', 'gibran']",positive
+"['instruksi', 'menang', 'prabowo', 'gibran', 'projo', 'jokowi', 'indonesiaemas']",negative
+"['judul', 'dirty', 'vote', 'ribu', 'surat', 'suara', 'coblos', 'gak', 'masuk', 'film', 'lucu', 'film', 'netral', 'pks', 'pdip', 'keren', 'main', 'prabowosubianto', 'gibran', 'indonesiamaju', 'indonesiaemas']",neutral
+"['wujud', 'menang', 'prabowo', 'gibran', 'februari', '', 'prabowogibran', 'prabowo', 'gibran', 'indonesiamaju', 'indonesiaemas']",negative
+"['bukti', 'khan', 'daeng', 'ucu', 'indonesiacemas', 'indonesiabubar']",positive
+"['regenerasi', 'politik', 'siasiakan', 'suara', 'anak', 'muda', 'indonesia', 'maju', 'indonesia', 'emas', 'temu', 'tps', 'tanggal', 'februari', 'salam', 'jari', 'promedia', 'prabowogibran', 'indonesiaemas', 'pilpres']",neutral
+"['yahh', 'tgl', 'februari', 'prabowo', 'gibran', 'nge', 'pump', 'gbk', 'salah', 'bukti', 'nya', 'kali', 'putar', 'prabowogibran', 'indonesiaemas']",neutral
+"['tsamaradki', 'sepakat', 'mari', 'bersamasama', 'sukses', 'pesta', 'demokrasi', 'damai', 'yg', 'urus', 'pilih', 'presiden', 'no', 'satuputaran', 'imdonesiamaju', 'indonesiaemas']",positive
+"['ayo', 'ayo', 'kawan', 'bikin', 'adem', 'suasana', 'apa', 'pilih', 'mu', 'moga', 'pilih', 'yg', 'baik', 'dg', 'hati', 'nurani', 'tunjuk', 'tuhan', 'moga', 'milu', 'cepat', 'yg', 'pilih', 'yg', 'baik', 'yg', 'takdir', 'tuhan', 'indonesiaemas', 'amin', 'pragib', 'gama']",positive
+"['viral', 'kampanye', 'akbar', 'capres', 'prabowo', 'gibran', 'hadir', 'juta', 'juang', 'indonesia', 'emas', 'indonesiaemas', 'prabowogibranpresiden', 'pilpres', 'milu', 'hlupdate', 'hulondaloid', 'promedia']",neutral
+"['mantan', 'istri', 'basuki', 'tjahaja', 'purnama', 'ahok', 'veronica', 'tan', 'pilih', 'pilpres', 'suaramerdeka', 'suaramerdekacom', 'promedia', 'mantanistri', 'ahok', 'capres', 'kriteriacapres', 'indonesiaemas', 'indonesiaemas']",neutral
+"['randomt', 'akapipid', 'wapamungkas', 'realistis', 'emg', 'mau', 'bedaa', 'looh', 'kl', 'realistis', 'ya', 'niat', 'komitmen', 'kuat', 'kerah', 'upaya', 'habis', 'capai', 'goals', 'lahh', 'ini', 'niat', 'usahany', 'bkn', 'utk', 'berantas', 'korupsi', 'tp', 'utk', 'pelihara', 'tp', 'jargon', 'indonesiaemas']",negative
+"['andrerosiade', 'alhamdulillah', 'bang', 'putar', 'prabowogibran', 'indonesiaemas']",positive
+"['menang', 'jingle', 'rkb', 'prabowogibran', 'indonesiamaju', 'indonesiaemas', 'jingle', 'rkb', 'rumahkeluargabersama']",positive
+"['modus', 'bapake', 'nyapres', 'receh', 'blow', 'up', 'influencer', 'indonesiacemas']",negative
+"['indonesia', 'emas', 'manusia', 'silver', 'upgrade', 'manusia', 'gold', 'indonesiaemas', 'kumpulakbar']",positive
+"['prabowo', 'gibran', 'bawa', 'indonesia', 'generasi', 'emas', 'indonesiaemas', 'prabowogibran', 'prabowogibran', 'fixprabowogibran', 'akhirnyapilih']",neutral
+"['diangaku', 'nelayan', 'yg', 'gak', 'butuh', 'susu', 'makan', 'gizi', 'gratis', 'ehtau', 'tau', 'caleg', 'pks', 'drama', 'banget', 'prabowogibran', 'indonesiamaju', 'indonesiaemas', 'nelayan', 'fake', 'pks', 'susugratis', 'makananbergizi', 'rkb', 'rumahkeluargabersama']",neutral
+"['rkb', 'ratus', 'warga', 'senam', 'gemoy', 'lapang', 'merdeka', 'desa', 'delanggu', 'klaten', 'jawa', 'kamis', 'prabowogibran', 'indonesiamaju', 'indonesiaemas', 'gunakanhakpilih', 'senamgemoy', 'rkb', 'rumahkeluargabersama']",positive
+"['lihat', 'video', 'de', 'mantap', 'tiktok', 'ayo', 'rapat', 'baris', 'prabowogibran', 'indonesia', 'maju', 'lanjut', 'indonesia', 'emas', 'prabowogibran', 'putar', 'prabowogibran', 'indonesiamaju', 'indonesiaemas', 'pilihprabowogibran', 'rapatkanbarisan']",positive
+"['prabowo', 'dar', 'manfaat', 'suara', 'milenial', 'ruang', 'bangun', 'indonesia', 'songsong', 'bonusdemograpi', 'indonesiaemas', 'prabowogibran', 'for', 'indonesiamaju', 'indonesiasuperpowerbaru', 'gelorakansemangatindonesia']",neutral
+"['mari', 'berfikir', 'indonesiaemas', 'warga', 'wakanda', 'autopilot', 'rakyat', 'astroplot', 'nusantara']",positive
+"['lihat', 'video', 'de', 'mantap', 'tiktok', 'prabowogibran', 'pilih', 'rakyat', 'indonesia', 'maju', 'lanjut', 'indonesia', 'emas', 'ksatria', 'indonesia', 'maju', 'harap', 'indonesia', 'pilihprabowogibran', 'prabowogibran', 'prabowo', 'gibran', 'lanjut', 'indonesiamaju', 'indonesiaemas']",positive
+"['zakyfachru', 'pengincumlaude', 'bikin', 'program', 'concern', 'hulu', 'pembrantasan', 'korupsi', 'didik', 'sehat', 'syarat', 'jd', 'negara', 'maju', 'sm', 'aja', 'boong', 'cmn', 'buang', 'wktduit', 'gak', 'karuan', 'sihh', 'yg', 'bikin', 'visi', 'gin', 'wkwk', 'paslon', 'cmn', 'bkn', 'bawa', 'indonesiaemas', 'tp', 'indonesiacemas']",neutral
+"['saat', 'guru', 'aktivis', 'mahasiswa', 'lembaga', 'negara', 'curang', 'gibran', 'user', 'tiktok', 'tetep', 'adem', 'jedagjedug', 'hahaha', 'selamat', 'indonesiaemas', 'tabrak', 'tabrak', 'masuk']",positive
+"['infrastruktur', 'ikn', 'super', 'megah', 'ikn', 'nusantara', 'ibukotabaru', 'jokowi', 'indonesia', 'indonesiaemas', 'dunia', 'fypage']",neutral
+"['bintangemon', 'klo', 'jdi', 'indonesiacemas']",negative
+"['mohon', 'maaf', 'sebesarbesarnya', 'ungkap', 'minta', 'maaf', 'prabowo', 'subianto', 'calon', 'presiden', 'nomor', 'urut', 'debat', 'capres', 'pamungkas', 'minggu', 'prabowogibran', 'indonesiamaju', 'indonesiaemas', 'debatcapres', 'jakarta', 'kpu', 'rkb', 'rumahkeluargabersama']",negative
+"['postingan', 'ust', 'muda', 'pontianak', 'azmi', 'nama', 'usia', 'th', 'genzmelekemas', 'indonesiaemas', 'minigoldid']",neutral
+"['target', 'indonesia', 'emas', 'rkb', 'bagi', 'makan', 'gizi', 'berpotein', 'warga', 'tipes', 'kratonan', 'sereng', 'solo', 'jawa', 'minggu', 'prabowogibran', 'indonesiamaju', 'indonesiaemas', 'sabtuceria', 'solo', 'rkb', 'rumahkeluargabersama']",positive
+"['baca', 'rep', 'qrt', 'lihat', 'gimana', 'level', 'cerdas', 'bangsa', 'indonesiaemas']",negative
+"['tirtacipeng', 'selamat', 'era', 'digital', 'dmna', 'org', 'nyimak', 'vidio', 'detik', 'paham', 'indonesiaemas']",neutral
+"['internet', 'gratis', 'penting', 'banding', 'makan', 'gratis', 'makan', 'mutlak', 'rakyat', 'prabowo', 'subianto', 'calon', 'presiden', 'nomor', 'urut', 'debat', 'capres', 'minggu', 'prabowogibran', 'indonesiamaju', 'indonesiaemas', 'debatcapres', 'kpu', 'rkb', 'rumahkeluargabersama']",neutral
+"['generasi', 'indonesia', 'hidup', 'pijak', 'nilai', 'agama', 'pancasila', 'budaya', 'luhur', 'bangsa', 'muhammadiyah', 'aisyiyah', 'ptma', 'indonesiaemas']",neutral
+"['indonesia', 'emas', 'prabowogibran', 'prabowoforpresident', 'prabowosubianto', 'prabowofor', 'gibran', 'prabowogibran', 'akukamukitapsmilihnya', 'indonesiamaju', 'indonesiaemas', 'fyp']",positive
+"['tugas', 'saksi', 'milu', 'salah', 'partai', 'politik', 'moga', 'wujud', 'yaa', 'putar', 'aja', 'harap', 'putar', 'okeh', 'gas', 'indonesiaemas']",positive
+"['pucuk', 'dingin', 'bos', 'elektabilitas', 'suara', 'prabowogibran', 'tembus', 'persen', 'ayo', 'ngegasss', 'menang', 'putar', 'prabowogibran', 'indonesiamaju', 'indonesiaemas', 'menangsatuputaran', 'milu', 'kpu', 'jakarta', 'rkb', 'rumahkeluargabersama']",positive
+"['ketua', 'dharma', 'wanita', 'satu', 'kanwil', 'kemenkumham', 'jatim', 'siti', 'fajar', 'ningrum', 'rochim', 'jatimnow', 'kanwilkemenkumhamjatim', 'ikatankeluargabesarpengayoman', 'indonesiaemas', 'dharmawanitapersatuan']",negative
+"['data', 'imd', 'world', 'competitiveness', 'booklet', 'global', 'competitiveness', 'index', 'asean', 'sdm', 'indonesia', 'peringkat', 'rendah', 'jatimnow', 'perguruantinggi', 'sdmunggul', 'gubernurjawatimur', 'khofifahindarparawansa', 'indonesiaemas']",negative
+"['perintah', 'baik', 'gizi', 'infrastruktur', 'indonesia', 'emas', 'fokus', 'tangan', 'stunting', 'kawasan', 'kumuh', 'tara', 'renovasi', 'jamban', 'kawasan', 'pesisir', 'perbaikangizi', 'indonesiaemas', 'tara']",neutral
+"['bangun', 'kota', 'negara', 'ikn', 'nusantara', 'upaya', 'perintah', 'usung', 'bangun', 'ekonomi', 'inklusif', 'menyebarluaskan', 'magnet', 'tumbuh', 'ekonomi', 'tumpu', 'pulau', 'jawa', 'ikn', 'bangun', 'indonesiaemas']",neutral
+"['ikn', 'nusantara', 'bawa', 'dampak', 'positif', 'indonesia', 'ikn', 'bangun', 'indonesiaemas']",positive
+"['nusantara', 'upaya', 'perintah', 'usung', 'bangun', 'ekonomi', 'inklusif', 'menyebarluaskan', 'magnet', 'tumbuh', 'ekonomi', 'tumpu', 'pulau', 'jawa', 'ikn', 'bangun', 'indonesiaemas']",neutral
+"['ikn', 'keren', 'ikn', 'bangun', 'indonesiaemas']",positive
+"['miskintv', 'kocak', 'indonesiaemas']",positive
+"['ndasmu', 'etik', 'muralpolitik', 'indonesiacemas', 'wakandanomore']",negative
+"['siap', 'kolaborasi', 'rumahkesadaran', 'coach', 'naqoy', 'negeri', 'lembaga', 'sertifikasi', 'prof', 'dr', 'amilin', 'ak', 'msi', 'bnspri', 'maju', 'bangsa', 'indonesia', 'bnsp', 'indonesiaemas', 'hebat', 'bnsp']",positive
+"['launching', 'serta', 'imbas', 'guru', 'gerak', 'lamongan', 'yuhronuryes', 'bbgpjatim', 'lamongan', 'megilan', 'lamonganmegilan', 'lamonganmenujukejayaan', 'gurupenggerak', 'guru', 'transformasipendidikan', 'didik', 'generasiunggul', 'indonesiaemas']",neutral
+"['menang', 'putar', 'mata', 'prabowogibrangasss', 'prabowogibran', 'indonesiamaju', 'indonesiaemas', 'menangsatuputaran', 'milu', 'kpu', 'jakarta', 'rkb', 'rumahkeluargabersama']",positive
+"['step', 'indonesiaemas']",positive
+"['chavesz', 'ajak', 'joget', 'indonesiacemas']",positive
+"['rkb', 'klaten', 'jawa', 'membagibagikan', 'makan', 'gizi', 'gratis', 'warga', 'klaten', 'bagi', 'tingkat', 'gizi', 'masyarakat', 'indonesia', 'emas', 'prabowogibran', 'indonesiaemas', 'tahugratis', 'makananbergizi', 'klaten', 'rkb', 'rkbklaten', 'rkbjawatengah']",neutral
+"['thank', 'you', 'for', 'being', 'you', 'thank', 'you', 'for', 'existing', 'thank', 'you', 'for', 'everything', 'that', 'youve', 'done', 'moga', 'depan', 'mantap', 'tuang', 'kontribusi', 'indonesiaemas', 'love', 'you', 'lots', 'akak', 'elelelel', 'sayang']",positive
+"['tomlembong', 'contohjikaandamenganggapbagus', 'cobaandacernansibsodetanclwung', 'natiralisasi', 'kondisikbersuhanbantarankali', 'dllbandingkanbeforejamandenganafter', 'pjheru', 'syyakinandabisa', 'andamrasapintermaafsallam', 'indonesiaemasaamiin']",positive
