@@ -13,6 +13,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 
+
 def main():
     # Sidebar
     activity = ["Hasil Crawling Twitter", "Word Cloud", "Top Words"]
